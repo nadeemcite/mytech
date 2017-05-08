@@ -1,0 +1,1 @@
+app.constant('base_url','http://localhost:5259/');

@@ -1,0 +1,15 @@
+{
+  "name": "mytech",
+  "version": "0.0.1",
+  "description": "My tech solutions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nadeem Sajjad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
